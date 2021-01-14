@@ -177,7 +177,9 @@ nav a:hover {
   padding: 4% 0;
   width: 90%;
   margin: 0 auto;
+  border-bottom: black solid;
 }
+
 .topinfo {
   padding: 4% 0;
   width: 90%;
